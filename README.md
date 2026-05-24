@@ -2,7 +2,7 @@
 
 A natural language processing project that classifies Amazon musical-instrument reviews into **positive**, **neutral**, and **negative** sentiment. The pipeline cleans raw review text, handles severe class imbalance with SMOTE, vectorizes with TF-IDF, and compares two classifiers — **K-Nearest Neighbors** and **Logistic Regression** — tuned with grid search.
 
-> **Result:** Logistic Regression reaches **95% accuracy**, substantially outperforming K-NN (**65.38%**).
+> **Result:** Logistic Regression reaches **94.40% accuracy**, substantially outperforming K-NN (**66.76%**).
 
 ---
 
